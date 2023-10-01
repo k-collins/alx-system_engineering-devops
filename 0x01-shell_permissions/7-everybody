@@ -1,0 +1,2 @@
+#!/bin/bash
+chmox ugo+x hello
